@@ -7,4 +7,5 @@ game/resource/overviews/*
 *.vagrp_c
 *.vmesh_c
 *.vtex_c
+*.vpcf_c
 *.vpk
